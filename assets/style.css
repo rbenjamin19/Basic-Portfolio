@@ -1,0 +1,104 @@
+body{
+	background-color:#ececec;
+}
+#nav{
+	width:100%;
+	background-color: #ffffff;
+	height:75px;
+	border:1px solid #cccccc;
+	position:fixed;
+	top:0px;
+	left:0px;
+}
+
+#Name{
+	background-color: #4aaaa5;
+	height:70px;
+	width:20%;
+	text-align:center;
+	vertical-align: center;
+	position:relative;
+	top: -20px;
+	left: 10%;
+	padding-top: 25px;
+	color:white;
+}
+
+#About{
+	position:fixed;
+	width:55px;
+	left:74.5%;
+	top:15px;
+}
+
+#Portfolio{
+	position:fixed;
+	width:75px;
+	border-left: solid 1px navy;
+	border-right: solid 1px navy;
+	left:79%;
+	padding-left:7px;
+	padding-right:2px;
+	top:15px;
+}
+
+#Contact{
+	position:fixed;
+	width:65px;
+	left:86%;
+	top:15px;
+
+}
+
+#aboutMe{
+	border:1px solid #cccccc;
+	position:fixed;
+	width:495px;
+	height:495px;
+	left:10%;
+	top:20%;
+	
+
+}
+
+#aboutHead{
+	position:relative;
+	top:5px;
+	left:20px;
+	border-bottom: 2px solid navy;
+	width:445px;
+}
+
+#meImg{
+	margin-left:10px;
+	float:left;
+}
+
+#aboutPara1{
+	font-size:16px;
+	
+	
+	
+
+}
+#aboutPara2{
+	font-size:16px;
+	margin-left:15px;
+	padding-left:15px;
+
+}
+
+
+#footer{
+	position:fixed;
+	bottom:10px;
+	border:1px solid #cccccc;
+	width: 100%;
+	padding-left:495px;
+}
+#Foot{
+	background-color: navy;
+}
+
+
+
